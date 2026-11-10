@@ -115,3 +115,4 @@ just update    # flake.lock を更新して検証する
 設計: [adr/from-template/0006](adr/from-template/0006-automate-template-sync-pr.md)
 
 - 設計判断の記録: [adr/](adr/)
+m14 check
